@@ -18,3 +18,5 @@ Desktop приложение реализованно с помощью библ
 # Unit-Testing
 Тесты реализованы с помощью стандратного пакета "testing"  
 # Сборка проекта
+1) В терминале ввести команду `go get github.com/Sereys13/ticTacToe/cmd`
+2) Переходим в папку: cd ~/go/src/github.com/jesseduffield/lazydocker (вместо ~/go может быть другой путь. Смотрим echo $GOPATH)
