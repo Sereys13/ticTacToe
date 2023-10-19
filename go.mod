@@ -1,4 +1,4 @@
-module main
+module github.com/Sereys13/ticTacToe
 
 go 1.21.0
 
