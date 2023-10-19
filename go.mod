@@ -1,4 +1,4 @@
-module github.com/Sereys13/ticTacToe
+module github.com/Sereys13/ticTacToe/cmd
 
 go 1.21.0
 
